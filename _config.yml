@@ -19,12 +19,11 @@ author:
   email: "ekamber@yorku.ca"
   linkedin: "egekamber"
   googlescholar: "https://scholar.google.ca/citations?user=hkEi5G0AAAAJ"
- orcid: "https://orcid.org/0000-0002-1365-8667"
-  osf: "https://osf.io/3eysr/"
+  orcid: "https://orcid.org/0000-0002-1365-8667"
   links:
     - label: "OSF"
       icon: "fas fa-fw fa-database"
-      url: "https://osf.io/3eysr/"
+      url: "https://osf.io/3eysr/
 
 # Navigation
 navigation:
