@@ -41,6 +41,10 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-.page__content p, .page__content li {
-  font-size: 0.85em !important;
+.page__content {
+  font-size: 0.8rem !important;
+  
+  p, li, h1, h2, h3 {
+    font-size: inherit !important;
+  }
 }
