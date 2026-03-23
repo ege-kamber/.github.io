@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoctoral researcher in the [Memory Development Learning and Brain Laboratory](https://md.lab.yorku.ca/) at York University, working with Dr. Thanujeni Pathman.
+I am currently a postdoctoral researcher in the [Memory Development Learning and Brain Laboratory](https://md.lab.yorku.ca/) at York University, working with Dr. Thanujeni (Jeni) Pathman.
 
 I study how we remember past events and contemplate future possibilities; and how these processes inform future-oriented decisions, particularly around saving and procrastination. My research focuses on children's **episodic memory**, **episodic future thinking**, **saving**, and **procrastination.**
 
