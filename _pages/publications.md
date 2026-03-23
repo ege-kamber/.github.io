@@ -13,7 +13,7 @@ For a full list of my publications, visit my [Google Scholar](https://scholar.go
 
 
 ---
-## Future Thinking & Memory
+## Memory & Future Thinking
 
 **Kamber, E.**, Busseri, M., & Mahy, C. E. V. (2026). Constructive episodic simulation, self-projection, and scene construction: Investigating the mechanisms of children's episodic thinking. *Cognition, 269*. [https://doi.org/10.1016/j.cognition.2025.106405](https://doi.org/10.1016/j.cognition.2025.106405)
 
