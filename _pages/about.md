@@ -10,7 +10,9 @@ redirect_from:
 
 I am currently a Postdoctoral Visitor in the [Memory Development Learning and Brain Laboratory]([https://pathmanlab.com](https://md.lab.yorku.ca/)) at York University, working with Dr. Thanujeni Pathman.
 
-My research focuses on **future-oriented cognition**, **episodic memory**, **future-oriented decisions**, **saving**, and **procrastination** in childhood. I completed my Ph.D. in Psychology (Lifespan Development) at Brock University under the supervision of Dr. Caitlin Mahy.
+I study how we remember past events and contemplate future possibilities; and how these processes inform future-oriented decisions, particularly around saving and procrastination. My research focuses on children's **episodic memory**, **episodic future thinking**, **saving**, and **procrastination.**
+
+I completed my Ph.D. in Psychology (Lifespan Development) at Brock University under the supervision of Dr. Caitlin Mahy.
 
 [Download CV (PDF)](/files/Kamber_CV.pdf){: .btn .btn--info}
 
@@ -18,6 +20,7 @@ My research focuses on **future-oriented cognition**, **episodic memory**, **fut
 
 - Memory Development
 - Future-Oriented Cognition
+- Autobiographical Memory
 - Episodic Memory 
 - Episodic Future Thinking
 - Saving
@@ -29,4 +32,4 @@ My research focuses on **future-oriented cognition**, **episodic memory**, **fut
 
 **2026** — New paper published in *Journal of Experimental Child Psychology*: [Investigating the development and coherence of children's saving.](https://doi.org/10.1016/j.jecp.2025.106359)
 
-**2025** — Started Postdoctoral Visitor position at York University Memory Development Learning and Brain Laboratory.
+**2025** — Started Postdoctoral Visitor position at York University [Memory Development Learning and Brain Laboratory.](https://md.lab.yorku.ca/)
