@@ -18,16 +18,11 @@ author:
   employer: "York University"
   email: "ekamber@yorku.ca"
   linkedin: "egekamber"
+  github: "ege-kamber"
   googlescholar: "https://scholar.google.ca/citations?user=hkEi5G0AAAAJ"
   orcid: "https://orcid.org/0000-0002-1365-8667"
-  links:
-    - label: "OSF"
-      icon: "fas fa-fw fa-database"
-      url: "https://osf.io/3eysr/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ege-kamber"
-
+  osf: "https://osf.io/3eysr/"
+  
 # Navigation
 navigation:
   - title: "Home"
